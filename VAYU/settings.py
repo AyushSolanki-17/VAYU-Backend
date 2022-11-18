@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'VAYU_MAIN.apps.VayuMainConfig',
+    'api.apps.ApiConfig',
+    'copd.apps.CopdConfig',
+    'health_profile.apps.HealthProfileConfig'
 ]
 
 MIDDLEWARE = [
