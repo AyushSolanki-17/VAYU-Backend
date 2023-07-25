@@ -93,5 +93,17 @@ The following are some of the features of the VAYU application.
     </tr>
     
 </table>      
-          
-
+         
+## Screenshots
+<table>
+    <tr>
+        <td><img src="https://user-images.githubusercontent.com/61615248/255895857-a33f898a-ff9f-40a9-ba19-bf7b68ed5f9d.jpg" alt="Screenshot1" /></td>
+        <td><img src="https://user-images.githubusercontent.com/61615248/255895852-dcee6f11-1b22-44d5-ad07-d0c50adf31e9.jpg" alt="Screenshot2" /></td>
+        <td><img src="https://user-images.githubusercontent.com/61615248/255895848-920278e3-ad9d-4fd2-9e00-528cc779b643.jpg" alt="Screenshot3" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://user-images.githubusercontent.com/61615248/255895840-b1ade3a4-85fa-474f-8ddc-a9a7e63e22bd.jpg" alt="Screenshot4" /></td>
+        <td><img src="https://user-images.githubusercontent.com/61615248/255895831-cf20feb7-6800-46ff-b7e1-9a6ba98ff854.jpg" alt="Screenshot5" /></td>
+        <td><img src="https://user-images.githubusercontent.com/61615248/255895822-1685fb02-360f-4dfc-b306-e5e1c55b7e22.jpg" alt="Screenshot6" /></td>
+    </tr>
+</table>
