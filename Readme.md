@@ -1,3 +1,4 @@
+         
 # VAYU
 ## Overview
 Project COPD Diagnosing Application (VAYU): The project "Vayu" utilises AI and machine learning to diagnose COPD. As
@@ -11,19 +12,13 @@ user interface and utilised blockchain to store all medical records of the tests
 ## Table of Contents
 
 <ol>
-    <li>
-     <a href="#Abstract">Abstract</a>
- </li>
+    <li><a href="#Abstract">Abstract</a></li>
     <li><a href="#About-UIA">About Unesco India Africa Hackathon</a></li>
     <li><a href="#Features">Features</a></li>
     <li><a href="#Technology">Technology</a></li>
-    <li><a href="#Our-Goals">Our goals</a></li>
-    <li><a href="#How-our-app-completes-these-Goals?">How our app completes these Goals?</a></li>
-    <li><a href="#How-to-run-our-application?">How to run our application?</a></li>
     <li><a href="#Screenshots">Screenshots</a></li>
-    <li><a href="#Demo-Video-Link">Demo Video</a></li>
+    <li><a href="#Demo-Video-Link">Full Documentation</a></li>
     <li><a href="#Further-Enhancements">Further Enhancements</a></li>
-    <li><a href="#Upcoming-Features">Upcoming Features</a></li>
     
  </ol>
  
@@ -45,7 +40,8 @@ The goal of VAYU is to provide a whole end-to-end solution, from the diagnosis o
 
 ## About UIA
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg?raw=true" width="128" style="margin:125px" />
+
+<p align="center"><img src="https://user-images.githubusercontent.com/55245862/205508044-e43024b4-3c92-4ab9-9f6b-e3c6038205a6.jpg" height="200" width="300"></p>
 
 The UNESCO INDIA – AFRICA Hackathon is an annual 36 hours event that brings together students, educators, teachers, and the research community of India and its African partners to tackle the common challenges faced by their countries and serves as a facilitator for cultural amalgamation.
 
@@ -58,7 +54,6 @@ The Hackathon also serves as a symbol of the close relation cherished by India a
 
 ## Features
 
-<p style="display:flex; flex-direction:row; align-items:center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Greentick.png?raw=true" width="24">Crop Recommendation based on soil and demographic data with estimated production and selling price.</p>
 The following are some of the features of the VAYU application.
 
 📑Interpretation of Blood Reports Using PDF Scanning (PDF Scanning, Machine Learning)
@@ -72,23 +67,31 @@ The following are some of the features of the VAYU application.
 ⛓️Reports based on blockchain technology
 
 👨‍⚕️Connect with your doctor.
+
 ## Technology
 
-<p float="left">
- 
+### Backend
+<table>
+    <tr>
+        <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /></td>
+        <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" /></td>
+        <td><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" /></td>
+        <td><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" /></td>
+        <td><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres SQL" /></td>
+    </tr>
+</table>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg?raw=true" width="128" style="margin:125px" />
-&nbsp; &nbsp;&nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg?raw=true" width="128" style="margin:125px"/>
-&nbsp; &nbsp;&nbsp; &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg?raw=true" width="128" style="margin:125px" />
- &nbsp; &nbsp;&nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg?raw=true" width="128" style="margin:125px" />
- &nbsp; &nbsp;&nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg?raw=true" width="128" style="margin:125px" />
-    &nbsp; &nbsp;&nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg?raw=true" width="128" style="margin:125px" />
-</p>
-          
+### Frontend
+<table>
+    <tr>
+        <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></td>
+        <td><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></td>
+        <td><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></td>
+    </tr>
+    
+</table>      
           
 
