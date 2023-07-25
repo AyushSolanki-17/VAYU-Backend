@@ -17,7 +17,7 @@ user interface and utilised blockchain to store all medical records of the tests
     <li><a href="#Features">Features</a></li>
     <li><a href="#Technology">Technology</a></li>
     <li><a href="#Screenshots">Screenshots</a></li>
-    <li><a href="#Demo-Video-Link">Full Documentation</a></li>
+    <li><a href="#Documentation">Full Documentation</a></li>
     <li><a href="#Further-Enhancements">Further Enhancements</a></li>
     
  </ol>
@@ -107,3 +107,10 @@ The following are some of the features of the VAYU application.
         <td><img src="https://user-images.githubusercontent.com/61615248/255895822-1685fb02-360f-4dfc-b306-e5e1c55b7e22.jpg" alt="Screenshot6" /></td>
     </tr>
 </table>
+
+## Documentation
+<a href="https://drive.google.com/file/d/1QAwxY5uiZKHYMBSroJj0mDrHXjmNwQOn/view?usp=sharing">Link to Documentation</a>
+
+## Further Enhancements
+
+- [ ] More research and features
